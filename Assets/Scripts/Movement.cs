@@ -24,8 +24,8 @@ public class Movement : MonoBehaviour
         if (Input.GetKey(KeyCode.D)) {
             rb.velocity = Vector2.right * speed;
         }
-           if (Input.GetKey(KeyCode.A)) {
-            rb.velocity = Vector2.left * speed;
+        if (Input.GetKey(KeyCode.A)) {
+        rb.velocity = Vector2.left * speed;
         }
         if (Input.GetKeyDown(KeyCode.Space)) {
             rb.velocity = Vector2.up * jump;
