@@ -26,17 +26,6 @@
             ],
             "bindings": [
                 {
-                    "name": "",
-                    "id": "a3d45133-8285-4b16-8b71-cb13c666c2f7",
-                    "path": "",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
                     "name": "2D Vector",
                     "id": "e870e9e7-66ec-41bf-84d9-a5f1c149b0fb",
                     "path": "2DVector",
